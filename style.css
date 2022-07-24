@@ -7,3 +7,9 @@
 .btn-bg{
     background-color: #3AB4F2;
 }
+.z-1{
+    z-index: 1;
+}
+.z-0{
+    z-index: 0;
+}
